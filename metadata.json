@@ -1,0 +1,6 @@
+{
+  "name": "HLS Live Stream Portal",
+  "description": "Trình phát và quản lý các luồng phát trực tiếp HLS (m3u8) với giao diện tối dịu mắt, hỗ trợ lưu trữ cục bộ, tìm kiếm, lọc danh mục và sắp xếp kênh mượt mà.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

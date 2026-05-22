@@ -17,7 +17,7 @@ export default function Header({ activeTab, setActiveTab }: HeaderProps) {
           </div>
           <div>
             <span className="text-lg font-black tracking-wider bg-gradient-to-r from-white via-zinc-200 to-indigo-400 bg-clip-text text-transparent">
-              HLS LIVE STREAM
+              HIEU DEP TRai
             </span>
             <span className="hidden sm:inline-block ml-2 px-2 py-0.5 bg-indigo-900/40 border border-indigo-700/30 text-[10px] text-indigo-300 font-bold uppercase tracking-widest rounded-full">
               Portal
